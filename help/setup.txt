@@ -1,0 +1,12 @@
+
+sudo npm install browser-sync gulp --save-dev
+
+cd into ndm
+
+npm init
+
+npm install gulp --save-dev
+
+npm install gulp-sass --save-dev
+
+add sass to gulpfile.js

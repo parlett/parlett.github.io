@@ -1,0 +1,18 @@
+{
+  "name": "ndm",
+  "version": "1.0.0",
+  "description": "Natalies Dance Movement",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Parlett",
+  "license": "ISC"
+}
