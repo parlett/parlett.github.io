@@ -1,0 +1,18 @@
+.common {
+  width: 500px; }
+
+html.cover {
+  background: url("../images/andressa-voltolini-202193-unsplash.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%; }
+
+body.cover {
+  background-color: inherit;
+  color: white;
+  height: 100%; }
+
+.cover-main {
+  text-shadow: 1px 1px 1px #000; }

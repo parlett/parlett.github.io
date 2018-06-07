@@ -1,12 +1,15 @@
-
+original build
+==============
 sudo npm install browser-sync gulp --save-dev
-
 cd into ndm
-
 npm init
-
 npm install gulp --save-dev
-
 npm install gulp-sass --save-dev
-
 add sass to gulpfile.js
+
+help for dev on new machine
+===========================
+clone source from github
+install node and npm
+npm update from root dir
+npm install -g gulp //for gulp commands on prompt
